@@ -1,7 +1,6 @@
 # 💫 About Me:
 Pronouns: He/Him
-I'm currently Python for learning game development and to make simple scripts.
-Planning to get into web development and AI.
+Hi! I am not a Pokémon!
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
